@@ -53,10 +53,3 @@ C99 compatible compiler (e.g., gcc)
 
 Standard libraries: stdio.h, stdlib.h, time.h, stdbool.h, math.h
 
----
-
-## License
-This project is licensed under the MIT License – free to use, modify, and distribute.
-
-## Author
-Created by Exentera
